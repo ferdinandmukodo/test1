@@ -1,6 +1,156 @@
 <!DOCTYPE html>
 <html>
 <head>
+        <title>Vallie's Estate</title>
+        <link rel="stylesheet" type="text/css" href="/home/moringa/assignment/index.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div id="diva">
+
+        <ul>
+           <li style="color:black;font-size: large;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Vallie's Estate</li>
+           <li><a href="#Home">Home</a></li>
+           <li><a href="#Rent">Rent</a></li>
+           <li><a href="#Land">Land</a></li>
+           <li><a href="#Agent">Agent</a></li>
+           <li><a href="#contactus">Contact Us</a></li>
+           <li><a href="#Getstarted">Get Started</a></li>
+       </ul>
+        </div>
+        <div class="divpa">
+            <p id="divp">Helping you find the<br> property of your<br> dreams.<br>
+             <span style="color:black; font-size:medium">Creating quality urban lifestyles,building<br> stronger communities.</span></p>
+             <p><img src="/home/moringa/assignment/image 1.png" alt="bangalow" width="400" height="380"></p>
+           
+        </div>
+        <div id="location">
+            <ul>
+                <li><span style="color:rgb(106, 106, 151) ;">Location</span><br>Lekki</li>
+                <li><span style="color:blue">Property</span><br>Duplex</li>
+                <li><span style="color:blue">Max Price</span><br>$10,000</li>
+                <li><span style="color:blue">Search</span></li>
+            </ul>
+        </div>
+        <div class="divpa">
+            <div class="findhome">
+                <p><img src="/home/moringa/assignment/address mark.png" alt="vallie property"></p>
+                <p><span class="find">Find Home</span><br>Our properties are located at<br>prime areas where by there<br>won't be problem with transportation.</p>
+            </div>
+            <div class="findhome">
+                <p><img src="/home/moringa/assignment/Secure data protection with fingerprint and lock.png" alt="house"></p>
+                <p><span class="find">Make payments</span><br>Our estate comes with<br>ggod network,portable<br>water,24hrs light and round<br>the clock security.</p>
+            </div>
+            <div class="findhome">
+                <p><img src="/home/moringa/assignment/Smart house.png" alt="house icon"></p>
+                <p><span class="find">Make It Official</span><br>We have been in business for<br>over 32 years,for clients<br> outside the country can<br> you trust us to deliver well.</p>
+            </div>
+        </div>
+        <div class="divpa">
+            <div>
+                <img src="/home/moringa/assignment/image 2.png" width="400" height="380">
+            </div>
+            <div>
+                <p class="why">Why you should choose us.</p>
+                <p>creating qulity urban lifestyle,building stronger<br> communities.<br><table style="width:100;">
+                    <tr style="color:blue;">
+                        <td>World class</td>
+                        <td>Affordable</td>
+                    </tr>
+                    <tr style="color:blue;">
+                        <td>Trusted</td>
+                        <td>Amenities</td>
+                    </tr>
+                </table></p>
+            </div>
+        </div>
+        <div style="text-align:center ;">
+            <p class="about"> <span style="color:blue ;">Our Featured Properties.</span></p>
+            <p>One of our biggest product to be featured and that has out the sold<br> out the most.</p>
+        </div>
+        <div class="divpa">
+            <div>
+                <img src="/home/moringa/assignment/image 4.png" alt="indie house" width="400" height="380">
+                <p><table>
+                    <tr>
+                        <td style="color:rgb(72, 54, 54) ;font-weight: bold;">The Palace</td>
+                        <td>Duplex</td>
+                    </tr>
+                    <tr>
+                        <td>Lekki,phase 2</td>
+                        <td> $2,000</td>
+                    </tr>    
+                </table></p>
+            </div>
+            <div>
+                <img src="/home/moringa/assignment/image 3.png" alt="ivy house" width="400" height="380">
+                <p><table>
+                    <tr>
+                        <td style="color:rgb(72, 54, 54) ;font-weight: bold;">Ivy Rory</td>
+                        <td>Duplex</td>
+                    </tr>
+                    <tr>
+                        <td>Lekki,phase 2</td>
+                        <td> $2,000</td>
+                    </tr>    
+                </table></p>
+            </div>
+            <div>
+                <img src="/home/moringa/assignment/image 5.png" alt="rexona house" width="400" height="380">
+                <p><table>
+                    <tr>
+                        <td style="color:rgb(72, 54, 54) ;font-weight: bold;">Rexona</td>
+                        <td>Duplex</td>
+                    </tr>
+                    <tr>
+                        <td>Lekki,phase 2</td>
+                        <td> $2,000</td>
+                    </tr>    
+                </table></p>
+            </div>
+        </div>
+        <div class="esteem">
+            <p style="color:blue ;">Our Esteemed Customers</p>
+            <p>This is what our clients are saying</p>
+        </div>
+        <div id="divb">
+            <table>
+                <tr>
+                    <td><span class="about">Vallie's Estate</span></td>
+                    <td><span class="about">Property</span></td>
+                    <td><span class="about">About</span></td>
+                    <td><span class="about">Resources</span></td>
+                </tr>
+                <tr>
+                    <td>Solution for easy and flexible</td>
+                    <td>Learning Modules</td>
+                    <td>Our Company</td>
+                    <td>Contact</td>
+                </tr>
+                <tr>
+                    <td>house hunting.You can trust us</td>
+                    <td>Partnership</td>
+                    <td>Career</td>
+                    <td>Give feedback</td>
+                </tr>
+                <tr>
+                    <td>anywhere through this</td>
+                    <td>watch demo</td>
+                    <td>Investors Relations</td>
+                    <td>System status</td>
+                
+                </tr>
+                <tr>
+                    <td>platform</td>
+                    <td>Event</td>
+                    <td>Social Impact</td>
+                    <td>Privacy Policy</td>
+                
+                </tr>
+            </table>
+          
+        </div>
+
 
 </head>
 <body>
